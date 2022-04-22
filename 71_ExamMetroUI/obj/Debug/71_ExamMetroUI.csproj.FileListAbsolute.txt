@@ -1,0 +1,14 @@
+D:\MyWork\Csharp\study6\71_ExamMetroUI\bin\Debug\71_ExamMetroUI.exe.config
+D:\MyWork\Csharp\study6\71_ExamMetroUI\bin\Debug\71_ExamMetroUI.exe
+D:\MyWork\Csharp\study6\71_ExamMetroUI\bin\Debug\71_ExamMetroUI.pdb
+D:\MyWork\Csharp\study6\71_ExamMetroUI\bin\Debug\MetroFramework.Design.dll
+D:\MyWork\Csharp\study6\71_ExamMetroUI\bin\Debug\MetroFramework.dll
+D:\MyWork\Csharp\study6\71_ExamMetroUI\bin\Debug\MetroFramework.Fonts.dll
+D:\MyWork\Csharp\study6\71_ExamMetroUI\obj\Debug\71_ExamMetroUI.csproj.AssemblyReference.cache
+D:\MyWork\Csharp\study6\71_ExamMetroUI\obj\Debug\_71_ExamMetroUI.Properties.Resources.resources
+D:\MyWork\Csharp\study6\71_ExamMetroUI\obj\Debug\71_ExamMetroUI.csproj.GenerateResource.cache
+D:\MyWork\Csharp\study6\71_ExamMetroUI\obj\Debug\71_ExamMetroUI.csproj.CoreCompileInputs.cache
+D:\MyWork\Csharp\study6\71_ExamMetroUI\obj\Debug\71_ExamMetroUI.csproj.CopyComplete
+D:\MyWork\Csharp\study6\71_ExamMetroUI\obj\Debug\71_ExamMetroUI.exe
+D:\MyWork\Csharp\study6\71_ExamMetroUI\obj\Debug\71_ExamMetroUI.pdb
+D:\MyWork\Csharp\study6\71_ExamMetroUI\obj\Debug\_71_ExamMetroUI.Form1.resources

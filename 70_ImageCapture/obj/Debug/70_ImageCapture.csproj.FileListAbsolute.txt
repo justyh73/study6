@@ -1,0 +1,9 @@
+D:\MyWork\Csharp\study6\70_ImageCapture\bin\Debug\70_ImageCapture.exe.config
+D:\MyWork\Csharp\study6\70_ImageCapture\bin\Debug\70_ImageCapture.exe
+D:\MyWork\Csharp\study6\70_ImageCapture\bin\Debug\70_ImageCapture.pdb
+D:\MyWork\Csharp\study6\70_ImageCapture\obj\Debug\_70_ImageCapture.Form1.resources
+D:\MyWork\Csharp\study6\70_ImageCapture\obj\Debug\_70_ImageCapture.Properties.Resources.resources
+D:\MyWork\Csharp\study6\70_ImageCapture\obj\Debug\70_ImageCapture.csproj.GenerateResource.cache
+D:\MyWork\Csharp\study6\70_ImageCapture\obj\Debug\70_ImageCapture.csproj.CoreCompileInputs.cache
+D:\MyWork\Csharp\study6\70_ImageCapture\obj\Debug\70_ImageCapture.exe
+D:\MyWork\Csharp\study6\70_ImageCapture\obj\Debug\70_ImageCapture.pdb

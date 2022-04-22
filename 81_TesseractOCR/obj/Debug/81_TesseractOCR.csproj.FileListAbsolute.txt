@@ -1,0 +1,16 @@
+D:\MyWork\Csharp\study6\81_TesseractOCR\bin\Debug\81_TesseractOCR.exe.config
+D:\MyWork\Csharp\study6\81_TesseractOCR\bin\Debug\81_TesseractOCR.exe
+D:\MyWork\Csharp\study6\81_TesseractOCR\bin\Debug\81_TesseractOCR.pdb
+D:\MyWork\Csharp\study6\81_TesseractOCR\obj\Debug\_81_TesseractOCR.Properties.Resources.resources
+D:\MyWork\Csharp\study6\81_TesseractOCR\obj\Debug\81_TesseractOCR.csproj.GenerateResource.cache
+D:\MyWork\Csharp\study6\81_TesseractOCR\obj\Debug\81_TesseractOCR.csproj.CoreCompileInputs.cache
+D:\MyWork\Csharp\study6\81_TesseractOCR\obj\Debug\81_TesseractOCR.exe
+D:\MyWork\Csharp\study6\81_TesseractOCR\obj\Debug\81_TesseractOCR.pdb
+D:\MyWork\Csharp\study6\81_TesseractOCR\bin\Debug\x86\leptonica-1.80.0.dll
+D:\MyWork\Csharp\study6\81_TesseractOCR\bin\Debug\x86\tesseract41.dll
+D:\MyWork\Csharp\study6\81_TesseractOCR\bin\Debug\x64\leptonica-1.80.0.dll
+D:\MyWork\Csharp\study6\81_TesseractOCR\bin\Debug\x64\tesseract41.dll
+D:\MyWork\Csharp\study6\81_TesseractOCR\bin\Debug\Tesseract.dll
+D:\MyWork\Csharp\study6\81_TesseractOCR\obj\Debug\81_TesseractOCR.csproj.AssemblyReference.cache
+D:\MyWork\Csharp\study6\81_TesseractOCR\obj\Debug\_81_TesseractOCR.Form1.resources
+D:\MyWork\Csharp\study6\81_TesseractOCR\obj\Debug\81_TesseractOCR.csproj.CopyComplete

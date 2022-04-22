@@ -1,0 +1,10 @@
+D:\MyWork\Csharp\study6\05_Enum\bin\Debug\05_Enum.exe.config
+D:\MyWork\Csharp\study6\05_Enum\bin\Debug\05_Enum.exe
+D:\MyWork\Csharp\study6\05_Enum\bin\Debug\05_Enum.pdb
+D:\MyWork\Csharp\study6\05_Enum\obj\Debug\05_Enum.csproj.AssemblyReference.cache
+D:\MyWork\Csharp\study6\05_Enum\obj\Debug\_05_Enum.Form1.resources
+D:\MyWork\Csharp\study6\05_Enum\obj\Debug\_05_Enum.Properties.Resources.resources
+D:\MyWork\Csharp\study6\05_Enum\obj\Debug\05_Enum.csproj.GenerateResource.cache
+D:\MyWork\Csharp\study6\05_Enum\obj\Debug\05_Enum.csproj.CoreCompileInputs.cache
+D:\MyWork\Csharp\study6\05_Enum\obj\Debug\05_Enum.exe
+D:\MyWork\Csharp\study6\05_Enum\obj\Debug\05_Enum.pdb

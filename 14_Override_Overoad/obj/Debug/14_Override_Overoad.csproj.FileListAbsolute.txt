@@ -1,0 +1,10 @@
+D:\MyWork\Csharp\study6\14_Override_Overoad\bin\Debug\13_Inheritance.exe.config
+D:\MyWork\Csharp\study6\14_Override_Overoad\bin\Debug\13_Inheritance.exe
+D:\MyWork\Csharp\study6\14_Override_Overoad\bin\Debug\13_Inheritance.pdb
+D:\MyWork\Csharp\study6\14_Override_Overoad\obj\Debug\14_Override_Overoad.csproj.AssemblyReference.cache
+D:\MyWork\Csharp\study6\14_Override_Overoad\obj\Debug\_13_Inheritance.Form1.resources
+D:\MyWork\Csharp\study6\14_Override_Overoad\obj\Debug\_13_Inheritance.Properties.Resources.resources
+D:\MyWork\Csharp\study6\14_Override_Overoad\obj\Debug\14_Override_Overoad.csproj.GenerateResource.cache
+D:\MyWork\Csharp\study6\14_Override_Overoad\obj\Debug\14_Override_Overoad.csproj.CoreCompileInputs.cache
+D:\MyWork\Csharp\study6\14_Override_Overoad\obj\Debug\13_Inheritance.exe
+D:\MyWork\Csharp\study6\14_Override_Overoad\obj\Debug\13_Inheritance.pdb

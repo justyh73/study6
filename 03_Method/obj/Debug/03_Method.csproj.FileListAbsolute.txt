@@ -1,0 +1,10 @@
+D:\MyWork\Csharp\study6\03_Method\bin\Debug\03_Method.exe.config
+D:\MyWork\Csharp\study6\03_Method\bin\Debug\03_Method.exe
+D:\MyWork\Csharp\study6\03_Method\bin\Debug\03_Method.pdb
+D:\MyWork\Csharp\study6\03_Method\obj\Debug\03_Method.csproj.AssemblyReference.cache
+D:\MyWork\Csharp\study6\03_Method\obj\Debug\_03_Method.Form1.resources
+D:\MyWork\Csharp\study6\03_Method\obj\Debug\_03_Method.Properties.Resources.resources
+D:\MyWork\Csharp\study6\03_Method\obj\Debug\03_Method.csproj.GenerateResource.cache
+D:\MyWork\Csharp\study6\03_Method\obj\Debug\03_Method.csproj.CoreCompileInputs.cache
+D:\MyWork\Csharp\study6\03_Method\obj\Debug\03_Method.exe
+D:\MyWork\Csharp\study6\03_Method\obj\Debug\03_Method.pdb

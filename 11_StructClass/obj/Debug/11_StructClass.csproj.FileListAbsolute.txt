@@ -1,0 +1,10 @@
+D:\MyWork\Csharp\study6\11_StructClass\bin\Debug\11_StructClass.exe.config
+D:\MyWork\Csharp\study6\11_StructClass\bin\Debug\11_StructClass.exe
+D:\MyWork\Csharp\study6\11_StructClass\bin\Debug\11_StructClass.pdb
+D:\MyWork\Csharp\study6\11_StructClass\obj\Debug\11_StructClass.csproj.AssemblyReference.cache
+D:\MyWork\Csharp\study6\11_StructClass\obj\Debug\_11_StructClass.Form1.resources
+D:\MyWork\Csharp\study6\11_StructClass\obj\Debug\_11_StructClass.Properties.Resources.resources
+D:\MyWork\Csharp\study6\11_StructClass\obj\Debug\11_StructClass.csproj.GenerateResource.cache
+D:\MyWork\Csharp\study6\11_StructClass\obj\Debug\11_StructClass.csproj.CoreCompileInputs.cache
+D:\MyWork\Csharp\study6\11_StructClass\obj\Debug\11_StructClass.exe
+D:\MyWork\Csharp\study6\11_StructClass\obj\Debug\11_StructClass.pdb

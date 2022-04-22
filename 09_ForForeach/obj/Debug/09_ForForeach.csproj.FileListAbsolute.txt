@@ -1,0 +1,10 @@
+D:\MyWork\Csharp\study6\09_ForForeach\bin\Debug\09_ForForeach.exe.config
+D:\MyWork\Csharp\study6\09_ForForeach\bin\Debug\09_ForForeach.exe
+D:\MyWork\Csharp\study6\09_ForForeach\bin\Debug\09_ForForeach.pdb
+D:\MyWork\Csharp\study6\09_ForForeach\obj\Debug\09_ForForeach.csproj.AssemblyReference.cache
+D:\MyWork\Csharp\study6\09_ForForeach\obj\Debug\_09_ForForeach.Form1.resources
+D:\MyWork\Csharp\study6\09_ForForeach\obj\Debug\_09_ForForeach.Properties.Resources.resources
+D:\MyWork\Csharp\study6\09_ForForeach\obj\Debug\09_ForForeach.csproj.GenerateResource.cache
+D:\MyWork\Csharp\study6\09_ForForeach\obj\Debug\09_ForForeach.csproj.CoreCompileInputs.cache
+D:\MyWork\Csharp\study6\09_ForForeach\obj\Debug\09_ForForeach.exe
+D:\MyWork\Csharp\study6\09_ForForeach\obj\Debug\09_ForForeach.pdb

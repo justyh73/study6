@@ -1,0 +1,10 @@
+D:\MyWork\Csharp\study6\07_Array\bin\Debug\07_Array.exe.config
+D:\MyWork\Csharp\study6\07_Array\bin\Debug\07_Array.exe
+D:\MyWork\Csharp\study6\07_Array\bin\Debug\07_Array.pdb
+D:\MyWork\Csharp\study6\07_Array\obj\Debug\07_Array.csproj.AssemblyReference.cache
+D:\MyWork\Csharp\study6\07_Array\obj\Debug\_07_Array.Form1.resources
+D:\MyWork\Csharp\study6\07_Array\obj\Debug\_07_Array.Properties.Resources.resources
+D:\MyWork\Csharp\study6\07_Array\obj\Debug\07_Array.csproj.GenerateResource.cache
+D:\MyWork\Csharp\study6\07_Array\obj\Debug\07_Array.csproj.CoreCompileInputs.cache
+D:\MyWork\Csharp\study6\07_Array\obj\Debug\07_Array.exe
+D:\MyWork\Csharp\study6\07_Array\obj\Debug\07_Array.pdb

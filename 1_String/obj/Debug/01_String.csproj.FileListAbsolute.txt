@@ -1,0 +1,10 @@
+D:\MyWork\Csharp\study6\1_String\bin\Debug\1_String.exe.config
+D:\MyWork\Csharp\study6\1_String\bin\Debug\1_String.exe
+D:\MyWork\Csharp\study6\1_String\bin\Debug\1_String.pdb
+D:\MyWork\Csharp\study6\1_String\obj\Debug\01_String.csproj.AssemblyReference.cache
+D:\MyWork\Csharp\study6\1_String\obj\Debug\_1_String.Form1.resources
+D:\MyWork\Csharp\study6\1_String\obj\Debug\_1_String.Properties.Resources.resources
+D:\MyWork\Csharp\study6\1_String\obj\Debug\01_String.csproj.GenerateResource.cache
+D:\MyWork\Csharp\study6\1_String\obj\Debug\01_String.csproj.CoreCompileInputs.cache
+D:\MyWork\Csharp\study6\1_String\obj\Debug\1_String.exe
+D:\MyWork\Csharp\study6\1_String\obj\Debug\1_String.pdb
