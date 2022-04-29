@@ -1,0 +1,9 @@
+D:\MyWork\Csharp\study6\72_ExamXML\bin\Debug\72_ExamXML.exe.config
+D:\MyWork\Csharp\study6\72_ExamXML\bin\Debug\72_ExamXML.exe
+D:\MyWork\Csharp\study6\72_ExamXML\bin\Debug\72_ExamXML.pdb
+D:\MyWork\Csharp\study6\72_ExamXML\obj\Debug\_72_ExamXML.Form1.resources
+D:\MyWork\Csharp\study6\72_ExamXML\obj\Debug\_72_ExamXML.Properties.Resources.resources
+D:\MyWork\Csharp\study6\72_ExamXML\obj\Debug\72_ExamXML.csproj.GenerateResource.cache
+D:\MyWork\Csharp\study6\72_ExamXML\obj\Debug\72_ExamXML.csproj.CoreCompileInputs.cache
+D:\MyWork\Csharp\study6\72_ExamXML\obj\Debug\72_ExamXML.exe
+D:\MyWork\Csharp\study6\72_ExamXML\obj\Debug\72_ExamXML.pdb

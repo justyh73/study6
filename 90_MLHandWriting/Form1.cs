@@ -20,13 +20,18 @@ namespace _90_MLHandWriting
 
         private void btnEnter_Click(object sender, EventArgs e)
         {
-            Bitmap bmp = pb_img.Image as Bitmap;
+            Bitmap sourceImage = pb_img.Image as Bitmap;
+            int width = 20;   //사이즈 200 * 200 으로 고정함. 
+            int height = 20; 
+            Size resize = new Size(width, height);
+            Bitmap resizeImage = new Bitmap(sourceImage, resize);
+            pb_small.Image = resizeImage;
             float[] fvalues = new float[400];
             for(int i =0;i<20; i++)
             {
                 for (int j = 0; j < 20; j++)
                 {
-                    if (IsBlack(bmp.GetPixel(j, i)))
+                    if (IsBlack(resizeImage.GetPixel(j, i)))
                     {
                         fvalues[i * 20 + j] = 0f;
                     }
@@ -41,6 +46,7 @@ namespace _90_MLHandWriting
             var input = Convert(fvalues);
             ModelOutput result = MLModel.Predict(input);
             lb_no.Text = result.PredictedLabel.ToString();
+            
         }
 
         ModelInput Convert(float[] fvalue)
@@ -463,9 +469,9 @@ namespace _90_MLHandWriting
 
         private void ResetPictureBox()
         {
-            Bitmap bitmap = new Bitmap(20, 20);
+            Bitmap bitmap = new Bitmap(200, 200);
             Graphics gr = Graphics.FromImage(bitmap);
-            gr.FillRectangle(Brushes.White, 0, 0, 20, 20);
+            gr.FillRectangle(Brushes.White, 0, 0, 200, 200);
             pb_img.Image = bitmap;
             
         }
@@ -483,8 +489,9 @@ namespace _90_MLHandWriting
         {
             if (check)
             {
+                Pen blackPen = new Pen(Color.FromArgb(255, 0, 0, 0), 10);
                 Graphics gr = Graphics.FromImage(pb_img.Image);
-                gr.DrawLine(Pens.Black, pt, e.Location);
+                gr.DrawLine(blackPen, pt, e.Location);
                 pt = e.Location;
                 pb_img.Invalidate();
             }

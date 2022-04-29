@@ -39,3 +39,8 @@ D:\MyWork\Csharp\study6\90_MLHandWriting\obj\Debug\netcoreapp3.1\90_MLHandWritin
 D:\MyWork\Csharp\study6\90_MLHandWriting\obj\Debug\netcoreapp3.1\90_MLHandWriting.dll
 D:\MyWork\Csharp\study6\90_MLHandWriting\obj\Debug\netcoreapp3.1\90_MLHandWriting.pdb
 D:\MyWork\Csharp\study6\90_MLHandWriting\obj\Debug\netcoreapp3.1\90_MLHandWriting.genruntimeconfig.cache
+D:\MyWork\Csharp\study6\90_MLHandWriting\bin\Debug\netcoreapp3.1\Microsoft.ML.LightGbm.dll
+D:\MyWork\Csharp\study6\90_MLHandWriting\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\lib_lightgbm.so
+D:\MyWork\Csharp\study6\90_MLHandWriting\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\lib_lightgbm.dylib
+D:\MyWork\Csharp\study6\90_MLHandWriting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lib_lightgbm.dll
+D:\MyWork\Csharp\study6\90_MLHandWriting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\lightgbm.exe

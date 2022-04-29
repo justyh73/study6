@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "uWLrIPLcY1gQsDKsxdZokGcDbBsO1Ng3q/ctItVjbv+UYVXxbW2Ezm7hSnomDGAgX8MqBynq4njV+vb1Y7Errw==",
+  "dgSpecHash": "KraAXnRrlgQNLoeJihdq9HDnZnj/Xf9eGgTjoSI54DAWAb8Nbswh2GM/7E3iw8BF/zt3uNHow60nONY8ZmemVQ==",
   "success": true,
   "projectFilePath": "D:\\MyWork\\Csharp\\study6\\90_MLHandWriting\\90_MLHandWriting.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\YongHo\\.nuget\\packages\\lightgbm\\2.3.1\\lightgbm.2.3.1.nupkg.sha512",
     "C:\\Users\\YongHo\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
     "C:\\Users\\YongHo\\.nuget\\packages\\microsoft.ml\\1.7.0\\microsoft.ml.1.7.0.nupkg.sha512",
     "C:\\Users\\YongHo\\.nuget\\packages\\microsoft.ml.cpumath\\1.7.0\\microsoft.ml.cpumath.1.7.0.nupkg.sha512",
     "C:\\Users\\YongHo\\.nuget\\packages\\microsoft.ml.dataview\\1.7.0\\microsoft.ml.dataview.1.7.0.nupkg.sha512",
     "C:\\Users\\YongHo\\.nuget\\packages\\microsoft.ml.fasttree\\1.7.0\\microsoft.ml.fasttree.1.7.0.nupkg.sha512",
+    "C:\\Users\\YongHo\\.nuget\\packages\\microsoft.ml.lightgbm\\1.7.0\\microsoft.ml.lightgbm.1.7.0.nupkg.sha512",
     "C:\\Users\\YongHo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\YongHo\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\YongHo\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
