@@ -1,0 +1,10 @@
+D:\MyWork\Csharp\study6\15_Partial\bin\Debug\15_Partial.exe.config
+D:\MyWork\Csharp\study6\15_Partial\bin\Debug\15_Partial.exe
+D:\MyWork\Csharp\study6\15_Partial\bin\Debug\15_Partial.pdb
+D:\MyWork\Csharp\study6\15_Partial\obj\Debug\15_Partial.csproj.AssemblyReference.cache
+D:\MyWork\Csharp\study6\15_Partial\obj\Debug\_15_Partial.Form1.resources
+D:\MyWork\Csharp\study6\15_Partial\obj\Debug\_15_Partial.Properties.Resources.resources
+D:\MyWork\Csharp\study6\15_Partial\obj\Debug\15_Partial.csproj.GenerateResource.cache
+D:\MyWork\Csharp\study6\15_Partial\obj\Debug\15_Partial.csproj.CoreCompileInputs.cache
+D:\MyWork\Csharp\study6\15_Partial\obj\Debug\15_Partial.exe
+D:\MyWork\Csharp\study6\15_Partial\obj\Debug\15_Partial.pdb

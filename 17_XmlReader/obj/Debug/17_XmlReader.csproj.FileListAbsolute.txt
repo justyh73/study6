@@ -1,0 +1,10 @@
+D:\MyWork\Csharp\study6\17_XmlReader\obj\Debug\17_XmlReader.csproj.AssemblyReference.cache
+D:\MyWork\Csharp\study6\17_XmlReader\obj\Debug\_17_XmlReader.Form1.resources
+D:\MyWork\Csharp\study6\17_XmlReader\obj\Debug\_16_StreamReader.Properties.Resources.resources
+D:\MyWork\Csharp\study6\17_XmlReader\obj\Debug\17_XmlReader.csproj.GenerateResource.cache
+D:\MyWork\Csharp\study6\17_XmlReader\obj\Debug\17_XmlReader.csproj.CoreCompileInputs.cache
+D:\MyWork\Csharp\study6\17_XmlReader\obj\Debug\16_StreamReader.exe
+D:\MyWork\Csharp\study6\17_XmlReader\obj\Debug\16_StreamReader.pdb
+D:\MyWork\Csharp\study6\17_XmlReader\bin\Debug\16_StreamReader.exe.config
+D:\MyWork\Csharp\study6\17_XmlReader\bin\Debug\16_StreamReader.exe
+D:\MyWork\Csharp\study6\17_XmlReader\bin\Debug\16_StreamReader.pdb
